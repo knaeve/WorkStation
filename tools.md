@@ -1,9 +1,6 @@
 # Tools
 
-### In this I will cover all the tools that I am using for now(will be adding more as soon as I use explore new tools)
-
-
-## What I am covering in this? 
+## What am I covering in this? 
     1. Editor that I use for my coding
     2. My Terminal setup and how I build it 
     3. Music that I hear while coding
