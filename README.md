@@ -7,7 +7,6 @@ WorkStation🏠 and I will be listing all my tools that I use and sharing my wor
 ## What am I covering in this? 
     1. Code Editor that I use for my work
     2. My Terminal setup and how I build it 
-    3. Music that I listen while work
 
 
 # Editor
