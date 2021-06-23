@@ -48,4 +48,6 @@ WorkStation🏠 and I will be listing all my tools that I use and sharing my wor
 
 
     - [Spaceship ZSH](https://denysdovhan.com/spaceship-prompt/)- It makes my prompt looks nice and provides extensions that helps improve my workflow
+
+
 ![zsh](https://github.com/Srijandev/WorkStation/blob/main/zsh.png?raw=true)
