@@ -50,3 +50,35 @@ WorkStation🏠 and I will be listing all my tools that I use and sharing my wor
 
 
 ![zsh](https://github.com/Srijandev/WorkStation/blob/main/zsh.png?raw=true)
+
+
+# Installation
+### Enable `WSL 2`
+1 . Open PowerShell as **Administrator** and run: 
+   `dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart`
+
+-  Note : Check [requirements](https://docs.microsoft.com/en-us/windows/wsl/install-win10#step-2---check-requirements-for-running-wsl-2)  before running WSL 2
+
+2 . You have to enable virtual machine feature: 
+	`dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart`
+
+Restart your computer.
+
+3 . Download and install the [Linux kernel update package](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi).
+
+4 . If you want to use `WSL 2` you should set it as default before intstalling:
+    `wsl --set-default-version 2`
+
+- Note : If you are not able to install WSL with this instructions go have a look at the
+official [Microsoft docs](https://docs.microsoft.com/en-us/windows/wsl/install-win10) on how to install WSL.
+
+5 . Install Ubuntu 20.04 LTS
+ - I am installing [Ubuntu 20.04](https://www.microsoft.com/store/apps/9n6svws3rx71), you can go on store and select your favorite Linux distribution.
+ - Install Ubuntu 20.04 by opening PowerShell and run: 
+ 
+   `curl.exe -L -o ubuntu-2004.appx https://aka.ms/wslubuntu2004    
+    Add-AppxPackage .\ubuntu-2004.appx`
+
+ - After installation launch the Ubuntu 20.04 LTS terminal. After a short while you will be prompted to enter a username and a password. This user will be your default user for    the distribution and is considered the Linux administrator with the ability to run sudo commands.
+    - Make sure everything is up to date: 
+        `sudo apt update && sudo apt upgrade -y`
