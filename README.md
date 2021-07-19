@@ -22,7 +22,7 @@ WorkStation🏠 and I will be listing all my tools that I use and sharing my wor
     - Metting & Code sharing Purposes- Sometime I have to share my code with the team I am working with, the Live Share comes to save me at that place:
         - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Built by Microsoft
     - Last but not the least, music extension
-        - [Music Time for Spotify](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.music-time) - This helps me to code peacefully and helps me to fix bugs easily 😛
+        - [Music Time for Spotify](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.music-time) - This helps me to control songs from VScode directly while coding
 
 
 # Terminal
