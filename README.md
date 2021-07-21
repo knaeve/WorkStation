@@ -7,7 +7,7 @@ WorkStation🏠 and I will be listing all my tools that I use and sharing my wor
 ## What am I covering in this? 
     1. Code editor that I use for my work
     2. My terminal setup 
-
+    3. Installation process
 
 # Editor
 ### [Visual Studio Code](https://code.visualstudio.com/), also known as VS Code, is a code editor for Linux, Windows, and macOS. It's a well know editor that I have used it for about 1 year and it is great! I have some extension installed in it that makes my workflow more simpler, wanna know what extensions I use? see below!
