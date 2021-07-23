@@ -21,6 +21,6 @@ SPACESHIP_PROMPT_ORDER=(
 )
 
 # oh-my-zsh plugins
-plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
+plugins=(git zsh-syntax-highlighting zsh-syntax-highlighting zsh-autosuggestions)
 
 source $ZSH/oh-my-zsh.sh
