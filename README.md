@@ -13,14 +13,14 @@ WorkStation🏠 and I will be listing all my tools that I use and sharing my wor
 ### [Visual Studio Code](https://code.visualstudio.com/), also known as VS Code, is a code editor for Linux, Windows, and macOS. It's a well know editor that I have used it for about 1 year and it is great! I have some extension installed in it that makes my workflow more simpler, wanna know what extensions I use? see below!
 - ### Extensions
     - UI Theme- This includes some of the popular theme extensions listed below:
-        - [Andromeda](https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda) - Dark theme with a taste of the universe
-        ![Andomeda Theme](https://github.com/EliverLara/Andromeda/raw/master/images/andromeda.png)
-        - [Gruvbox Material Theme](https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material) - Gruvbox with material palette
-        ![Gruvbox Theme](https://gitlab.com/sainnhe/img/-/raw/master/gm-vsc-dark-medium-material.png)
+        - [Horizon Theme](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode) - A beautifully warm dual theme for Visual Studio Code
+        ![Horizon Theme](https://raw.githubusercontent.com/jolaleye/horizon-theme-vscode/master/preview.png)
+        - [Gruvbox Material Theme](https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material) - Gruvbox with material palette for Visual Studio Code
+        ![Gruvbox Material Theme](https://gitlab.com/sainnhe/img/-/raw/master/gm-vsc-dark-medium-material.png)
     - File Icon theme- This includes some of the popular Icon theme extensions list below:
         - [Helium Icon Theme](https://marketplace.visualstudio.com/items?itemName=helgardrichard.helium-icon-theme) - Helium and material design Icons for Visual Studio Code
     - Metting & Code sharing Purposes- Sometime I have to share my code with the team I am working with, the Live Share comes to save me at that place:
-        - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Built by Microsoft
+        - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools
     - Last but not the least, music extension
         - [Music Time for Spotify](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.music-time) - This helps me to control songs from VScode directly while coding
 
