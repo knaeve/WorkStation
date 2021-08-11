@@ -21,7 +21,9 @@ WorkStation🏠 and I will be listing all my tools that I use and sharing my wor
         - [Helium Icon Theme](https://marketplace.visualstudio.com/items?itemName=helgardrichard.helium-icon-theme) - Helium and material design Icons for Visual Studio Code
     - Metting & Code sharing Purposes- Sometime I have to share my code with the team I am working with, the Live Share comes to save me at that place:
         - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools
-    - Last but not the least, music extension
+    - Code Screenshot
+    	- [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) - An extension for Visual Studio Code to take a screenshot from your own editor.
+    - Music extension
         - [Music Time for Spotify](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.music-time) - This helps me to control songs from VScode directly while coding
 
 
