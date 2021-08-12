@@ -12,14 +12,14 @@ WorkStation🏠 and I will be listing all my tools that I use and sharing my wor
 # Editor
 ### [Visual Studio Code](https://code.visualstudio.com/), also known as VS Code, is a code editor for Linux, Windows, and macOS. It's a well know editor that I have used it for about 1 year and it is great! I have some extension installed in it that makes my workflow more simpler, wanna know what extensions I use? see below!
 - ### Extensions
-    - UI Theme- This includes some of the popular theme extensions listed below:
+    - UI Theme
         - [Horizon Theme](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode) - A beautifully warm dual theme for Visual Studio Code
         ![Horizon Theme](https://raw.githubusercontent.com/jolaleye/horizon-theme-vscode/master/preview.png)
         - [Gruvbox Material Theme](https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material) - Gruvbox with material palette for Visual Studio Code
         ![Gruvbox Material Theme](https://gitlab.com/sainnhe/img/-/raw/master/gm-vsc-dark-medium-material.png)
-    - File Icon theme- This includes some of the popular Icon theme extensions list below:
+    - File Icon theme
         - [Helium Icon Theme](https://marketplace.visualstudio.com/items?itemName=helgardrichard.helium-icon-theme) - Helium and material design Icons for Visual Studio Code
-    - Metting & Code sharing Purposes- Sometime I have to share my code with the team I am working with, the Live Share comes to save me at that place:
+    - Metting & Code sharing Purpose
         - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools
     - Code Screenshot
     	- [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) - An extension for Visual Studio Code to take a screenshot from your own editor.
