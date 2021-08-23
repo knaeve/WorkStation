@@ -1,0 +1,14 @@
+set linenumbers
+set tabsize 4
+set tabstospaces
+set autoindent
+set trimblanks
+set linenumbers
+set constantshow
+set mouse
+set titlecolor brightwhite,blue
+set numbercolor cyan
+set statuscolor brightwhite,cyan
+set keycolor cyan
+set functioncolor yellow
+set speller "hunspell"
