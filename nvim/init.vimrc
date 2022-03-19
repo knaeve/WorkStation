@@ -40,7 +40,7 @@ Plug 'vim-airline/vim-airline' " Lean & mean status/tabline for vim that's light
 Plug 'vim-airline/vim-airline-themes' " airline theme...
 
 " colorschemes
-Plug 'morhetz/gruvbox'
+Plug 'nicholasc/vim-seti'
 Plug 'ryanoasis/vim-devicons' " look at beauty icons
 
 " text objects
